@@ -1,4 +1,4 @@
-# Basics of databases
+# Algorithms and data structures
 ## Author
 Обельчак Вячеслав Андреевич, 24.Б81-мм
 ## Contacts
